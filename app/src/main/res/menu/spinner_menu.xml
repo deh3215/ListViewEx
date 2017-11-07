@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app2="http://schemas.android.com/apk/res-auto"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/actionbar_spinner"
+        android:title="Item"
+        app:actionViewClass="android.widget.Spinner"
+        app:showAsAction="always" />
+
+
+</menu>

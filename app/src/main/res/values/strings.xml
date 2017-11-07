@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ListViewEx</string>
+    <string name="string_ary">SpinnerEx</string>
+    <string-array name="bike_brand">
+        <item>Triumph</item>
+        <item>YAMAHA</item>
+        <item>HONDA</item>
+        <item>KAWASAKI</item>
+        <item>SUZUKI</item>
+        <item>DUCATI</item>
+        <item>HARLEY-DAVIDSON</item>
+    </string-array>
+</resources>
