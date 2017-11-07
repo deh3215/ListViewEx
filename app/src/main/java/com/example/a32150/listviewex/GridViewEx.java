@@ -64,7 +64,6 @@ public class GridViewEx extends AppCompatActivity {
             int width=getResources().getDisplayMetrics().widthPixels ;
             int height=getResources().getDisplayMetrics().heightPixels ;
 
-
             ImageView iv = new ImageView(ct);
             iv.setLayoutParams(new GridView.LayoutParams(width/count,height/(imgAry.length/count)));
             Log.d("WIDTH", ""+width);
